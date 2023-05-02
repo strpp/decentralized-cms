@@ -1,2 +1,2 @@
 # decentralized-cms
-Study, design and development of a decentralized CMS
+This repository contains the source code for the project "Studio, progettazione e sviluppo di un CMS decentralizzato con integrazione SSI.", developed under the supervision of the Padua university.
